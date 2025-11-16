@@ -2,19 +2,19 @@
 
 A lightweight, production-ready **Spam Detection App** built with:
 
-* **Google Gemini 2.5 Flash**
-* **LangChain (Pydantic Parsing)**
-* **Streamlit UI**
-* **Pandas for CSV batch processing**
-* **Pydantic v2**
-* **Python 3.11**
+* **Google Gemini 2.5 Flash**  
+* **LangChain (Pydantic Parsing)**  
+* **Streamlit UI**  
+* **Pandas for CSV batch processing**  
+* **Pydantic v2**  
+* **Python 3.11**  
 
 The app supports:
 
-✔ **Single-message spam classification**
-✔ **Batch CSV upload + classification**
-✔ Strict **structured output enforcement** using `PydanticOutputParser`
-✔ A clean Streamlit UI for real-time results
+✔ **Single-message spam classification**  
+✔ **Batch CSV upload + classification**  
+✔ Strict **structured output enforcement** using `PydanticOutputParser`  
+✔ A clean Streamlit UI for real-time results  
 
 ---
 
