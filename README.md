@@ -1,7 +1,3 @@
-Here is a clean, professional **README.md** for your project — accurate to your code, your stack, and Python 3.11.
-
----
-
 # 📧 Spam Detector (Gemini + LangChain + Streamlit)
 
 A lightweight, production-ready **Spam Detection App** built with:
